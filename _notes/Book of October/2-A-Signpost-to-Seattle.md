@@ -2,6 +2,7 @@
 title : 2. A Signpost to Seattle
 feed: show
 date : 15-04-2021
+permalink: /2-A-Signpost-to-Seattle
 ---
 # 2. A Signpost to Seattle
 

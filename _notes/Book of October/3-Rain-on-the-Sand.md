@@ -2,8 +2,10 @@
 title : 3. Rain on the Sand
 feed: show
 date : 15-04-2021
+permalink: /3-Rain-on-the-Sand
 ---
-# 3. Rain on the Sand
+
+[[2-A-Signpost-to-Seattle]]
 
 [[0-The-Book-of-October]]: Index [[2-A-Signpost-to-Seattle]]: Previous [[4-Ripples-on-the-Pond]]: Next
 
