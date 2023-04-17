@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: The Wire Web
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+all working notes listed as `shown` will be indexed and displayed in this list. found a secret link? it won't show up here so don't lose it.

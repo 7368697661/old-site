@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Wire Web # Change this 
+heading: kneecaps.org # Change this 
 content: A collection of working wires; dreams of man and machine
 copyright:  
   year: © 2022
