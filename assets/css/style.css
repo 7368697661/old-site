@@ -312,8 +312,8 @@ ul ul {
     background: rgba(217, 217, 217, 0.58);
     border: 1px solid white;
     border-radius: 8px;
-    transition: border-radius 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: rgb(0 0 0 / 10%) 0px 10px 15px -3px, rgb(0 0 0 / 5%) 0px 4px 6px -2px;
 }
 
 .notelist-feed:hover {
