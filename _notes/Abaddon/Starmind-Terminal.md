@@ -1,8 +1,7 @@
 ---
-tags: 
-abstract: 
-c: 2023.04.05 ⋄ 03:14:16
-e: 2023.04.06 ⋄ 11:43:22
+title : Data-Shards
+feed: show
+date : 15-04-2021
 ---
 # Starmind Terminal
 
