@@ -242,7 +242,10 @@ html {
   }
 
 .container-qoute {
-  border: 1px solid black;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 1em;
+    background: var(--color-bg-main);
 }
 
 article,
