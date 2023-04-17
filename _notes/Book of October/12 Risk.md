@@ -1,5 +1,5 @@
 ---
-title : 12. Risk
+title : 12 Risk
 feed: show
 date : 15-04-2021
 ---

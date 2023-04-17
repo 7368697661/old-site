@@ -1,5 +1,5 @@
 ---
-title : 9. Self Hate
+title : 9 Self Hate
 feed: show
 date : 15-04-2021
 ---

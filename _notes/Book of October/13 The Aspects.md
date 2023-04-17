@@ -1,5 +1,5 @@
 ---
-title : 13. The Aspects
+title : 13 The Aspects
 feed: show
 date : 15-04-2021
 ---

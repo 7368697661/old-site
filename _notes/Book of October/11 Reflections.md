@@ -1,10 +1,10 @@
 ---
-title : 11. Reflections
+title : 11 Reflections
 feed: show
 date : 15-04-2021
 ---
 
-[[0 The Book of October]] [[10  Compassion]] [[12 Risk]]
+[[0 The Book of October]] [[10 Compassion]] [[12 Risk]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, GRANDIOSITY, INTROSPECTION, SAGA, ANIATIO, PRYLIS, ACTION, ARBALO, ERAS, ANGER, HOPE

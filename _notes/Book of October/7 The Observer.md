@@ -1,5 +1,5 @@
 ---
-title : 7. The Observer
+title : 7 The Observer
 feed: show
 date : 15-04-2021
 ---

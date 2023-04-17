@@ -1,5 +1,5 @@
 ---
-title : 10. Compassion
+title : 10 Compassion
 feed: show
 date : 15-04-2021
 ---

@@ -1,5 +1,5 @@
 ---
-title : 14. The Lord's Prayer
+title : 14 The Lords Prayer
 feed: show
 date : 15-04-2021
 ---

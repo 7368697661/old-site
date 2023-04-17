@@ -1,5 +1,5 @@
 ---
-title : 19. November Dawn
+title : 19 November Dawn
 feed: show
 date : 15-04-2021
 ---

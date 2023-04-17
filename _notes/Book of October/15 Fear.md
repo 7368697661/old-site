@@ -1,5 +1,5 @@
 ---
-title : 15. Fear
+title : 15 Fear
 feed: show
 date : 15-04-2021
 ---

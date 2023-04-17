@@ -1,5 +1,5 @@
 ---
-title : 5. Sacrifice your Appeal to Authority
+title : 5 Sacrifice your Appeal to Authority
 feed: show
 date : 15-04-2021
 ---

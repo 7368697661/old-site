@@ -1,5 +1,5 @@
 ---
-title : 17. Shelving Ego
+title : 17 Shelving Ego
 feed: show
 date : 15-04-2021
 ---

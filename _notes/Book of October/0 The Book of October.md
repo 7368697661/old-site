@@ -19,7 +19,7 @@ date: 15-04-2021
 - [[7 The Observer]]
 - [[8 Vulnerability]]
 - [[9 Self Hate]]
-- [[10  Compassion]]
+- [[10 Compassion]]
 - [[11 Reflections]]
 - [[12 Risk]]
 - [[13 The Aspects]]

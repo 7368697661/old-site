@@ -1,5 +1,5 @@
 ---
-title : 6. Lilies of the Field
+title : 6 Lilies of the Field
 feed: show
 date : 15-04-2021
 ---
