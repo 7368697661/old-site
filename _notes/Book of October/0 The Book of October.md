@@ -11,9 +11,10 @@ date: 15-04-2021
 ## Index:
 
 - [[1 A Clever Hell]]
+- [[2 A Signpost to Seattle]]
 - [[2. A Signpost to Seattle]]
 - [[3. Rain on the Sand]]
-- [[4. Ripples on the Pond]]
+- [[4 Ripples on the Pond]]
 - [[5. Sacrifice your Appeal to Authority]]
 - [[6. Lilies of the Field]]
 - [[7. The Observer]]
