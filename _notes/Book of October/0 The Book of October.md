@@ -10,7 +10,7 @@ date : 15-04-2021
 
 ## Index:
 
-- [[1-A-Clever-Hell]]
+- [[1 A Clever Hell]]
 - [[2. A Signpost to Seattle]]
 - [[3. Rain on the Sand]]
 - [[4. Ripples on the Pond]]
