@@ -7,7 +7,7 @@ permalink: /2-A-Signpost-to-Seattle
 
 [[3 Rain on the Sand]]
 
-[[0 The Book of October|Index]] [[1 A Clever Hell|Previous]] [[3 Rain on the Sand|Next]]
+[[0 The Book of October]] [[1 A Clever Hell]] [[3 Rain on the Sand]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ABSTRACTION, PRYLIS, PARAMIA, AUREL, FAHIN, ESCO, XOLL, LUCIRE

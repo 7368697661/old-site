@@ -3,9 +3,8 @@ title : 1. A Clever Hell
 feed: show
 date : 15-04-2021
 ---
-# 1. A Clever Hell
 
-[[0 The Book of October|Index]] [[2 A Signpost to Seattle|Next]]
+[[0 The Book of October]] [[2 A Signpost to Seattle]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, PARAMIA, SKEPSI 

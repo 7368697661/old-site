@@ -7,7 +7,7 @@ permalink: /3-Rain-on-the-Sand
 
 [[2 A Signpost to Seattle]]
 
-[[0 The Book of October]]: Index [[2 A Signpost to Seattle]]: Previous [[4-Ripples-on-the-Pond]]: Next
+[[0 The Book of October]] [[2 A Signpost to Seattle]] [[4-Ripples-on-the-Pond]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, SAGA, ABSTRACTION, AUREL, HEART
