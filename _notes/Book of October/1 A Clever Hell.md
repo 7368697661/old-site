@@ -1,5 +1,5 @@
 ---
-title : 1. A Clever Hell
+title : 1 A Clever Hell
 feed: show
 date : 15-04-2021
 ---

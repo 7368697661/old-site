@@ -1,8 +1,7 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:15:25
-e: 2023.03.31 ⋄ 05:48:08
+title : 4 Ripples on the Pond
+feed: show
+date : 15-04-2021
 ---
 # 4. Ripples on the Pond
 [[00 The Book of October|Index]] [[3. Rain on the Sand|Previous]] [[5. Sacrifice your Appeal to Authority|Next]]

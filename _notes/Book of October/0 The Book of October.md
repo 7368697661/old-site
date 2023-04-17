@@ -1,7 +1,7 @@
 ---
-title : The Book of October
+title: 0 The Book of October
 feed: show
-date : 15-04-2021
+date: 15-04-2021
 ---
 # The Book of October
 

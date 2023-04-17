@@ -1,5 +1,5 @@
 ---
-title : 3. Rain on the Sand
+title : 3 Rain on the Sand
 feed: show
 date : 15-04-2021
 permalink: /3-Rain-on-the-Sand
@@ -7,7 +7,7 @@ permalink: /3-Rain-on-the-Sand
 
 [[2 A Signpost to Seattle]]
 
-[[0 The Book of October]] [[2 A Signpost to Seattle]] [[4-Ripples-on-the-Pond]]
+[[0 The Book of October]] [[2 A Signpost to Seattle]] [[4 Ripples on the Pond]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, SAGA, ABSTRACTION, AUREL, HEART
