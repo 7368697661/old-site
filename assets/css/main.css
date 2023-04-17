@@ -209,10 +209,8 @@ th {
     text-align: left; }
 
 html {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-size: 400% 400%;
+
   /* height: 100%; */
-  animation: gradient 15s ease infinite;
 	height: 100vh;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -221,6 +219,13 @@ html {
   overflow-y: scroll;
   text-rendering: optimizeLegibility;
   text-size-adjust: 100%; }
+
+  body:after {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    /* height: 100%; */
+    animation: gradient 15s ease infinite;
+    height: 100vh; }
 
 @keyframes gradient {
     0% {
