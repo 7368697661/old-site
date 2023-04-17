@@ -208,8 +208,12 @@ th {
   th:not([align]) {
     text-align: left; }
 
+.theme-light body {
+  background: red;
+}
+
 html {
-  background-color: var(--color-bg-main);
+  background: linear-gradient(168.44deg, rgba(255, 255, 255, 1) 1.62%, rgba(233, 236, 239, 1) 95.72%);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
