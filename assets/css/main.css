@@ -210,6 +210,7 @@ th {
 
 html {
   background: var(--color-bg-grad);
+  height: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
@@ -3350,7 +3351,7 @@ a.navbar-item,
       margin-left: 41.66667%; }
     .column.is-6-widescreen {
       flex: none;
-      width: 50%; }
+      width: 69%; }
     .column.is-offset-6-widescreen {
       margin-left: 50%; }
     .column.is-7-widescreen {
