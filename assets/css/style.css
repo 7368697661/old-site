@@ -9,6 +9,7 @@ html[data-theme="light"] {
     --color-bg-main: #FFFFFF;
     --color-bg-sub: #FAFAFC;
     --color-bg-grad: linear-gradient(168.44deg, rgba(255, 255, 255, 1) 1.62%, rgba(233, 236, 239, 1) 95.72%);
+    --color-bg-inv: linear-gradient(4deg, rgba(255, 255, 255, 1) 1.62%, rgba(233, 236, 239, 1) 95.72%);
     --color-text-main: #282832;
     --color-text-sub: #5D5D67;
     --color-text-link: #2380ED;
@@ -21,6 +22,7 @@ html[data-theme="dark"] {
     --color-bg-main: #262626;
     --color-bg-sub: #18181C;
     --color-bg-grad: linear-gradient(168.44deg, rgba(255, 255, 255, 0) 1.62%, rgb(52, 70, 16) 95.72%);
+    --color-bg-inv: linear-gradient(4deg, rgba(255, 255, 255, 0) 1.62%, rgb(52, 70, 16) 95.72%);
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
     --color-text-link: #6D9EFF;

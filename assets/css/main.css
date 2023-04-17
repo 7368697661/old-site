@@ -209,7 +209,7 @@ th {
     text-align: left; }
 
 html {
-  background-color: var(--color-bg-grad);
+  background: var(--color-bg-grad);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
@@ -246,7 +246,7 @@ body {
   font-weight: 400;
   line-height: 1.4;
   padding: 2rem;
-  background: red;
+  background: var(--color-bg-inv);
   border-radius: 8px;
   margin: 3rem;
  }
