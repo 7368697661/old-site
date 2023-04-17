@@ -245,7 +245,10 @@ body {
   font-size: var(--text-m);
   font-weight: 400;
   line-height: 1.4;
-  padding: 1rem;
+  padding: 2rem;
+  background: red;
+  border-radius: 8px;
+  margin: 3rem;
  }
 
 a {
