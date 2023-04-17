@@ -1,5 +1,5 @@
 ---
-title : 20. Existence
+title : 20 Existence
 feed: show
 date : 15-04-2021
 ---
