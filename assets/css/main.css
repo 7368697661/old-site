@@ -2842,7 +2842,7 @@ a.navbar-item,
     width: 100%; }
   .columns.is-mobile > .column.is-offset-12 {
     margin-left: 100%; }
-  @media screen and (max-width: 1200px) {
+  /* @media screen and (max-width: 1200px) {
     .column.is-narrow-mobile {
       flex: none; }
     .column.is-full-mobile {
@@ -3537,7 +3537,7 @@ a.navbar-item,
       flex: none;
       width: 100%; }
     .column.is-offset-12-fullhd {
-      margin-left: 100%; } }
+      margin-left: 100%; } } */
 
 .columns {
   margin-left: -0.75rem;
