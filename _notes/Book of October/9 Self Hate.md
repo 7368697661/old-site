@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:18:03
-e: 2023.03.31 ⋄ 05:48:17
+title : 9. Self Hate
+feed: show
+date : 15-04-2021
 ---
-# 9. Self Hate
-[[00 The Book of October|Index]] [[8. Vulnerability|Previous]] [[10. Compassion|Next]]
+
+[[0 The Book of October]] [[8 Vulnerability]] [[10 Compassion]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, MERFOTIA, LOGIC, ANGER, THOS, THALIAN, SAGA, FAHIN, APEIRON, ELIAUO, HEART, INTROSPECTION, DELOIA
@@ -254,4 +253,3 @@ If you saw what some of these ancient books actually contained. The INSANE densi
 
 **ASPIRATION**: Yeah, I hope you all do. But like, I've got some shit to do also. And the person you're keeping in touch with will hopefully be more than me.
 
-[[10. Compassion|Next]]

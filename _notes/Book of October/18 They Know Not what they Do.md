@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:22:44
-e: 2023.03.31 ⋄ 05:48:32
+title : 18. They Know Not what they Do
+feed: show
+date : 15-04-2021
 ---
-# 18. They Know Not what they Do
-[[00 The Book of October|Index]] [[17. Shelving Ego|Previous]] [[19. November Dawn|Next]]
+
+[[0 The Book of October]] [[17 Shelving Ego]] [[19 November Dawn]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ORUS, INTROSPECTION, PSYARO, HOPE, ABSTRACTION, FAHIN, PRYLIS, THOS, CHAM
@@ -81,5 +80,3 @@ The next time you are irritated, imagine that the person irritating you is a 5 y
 **ASPIRATION**: Thos, the only thing you have is now. Stop punishing a 5 year old, yourself. You "knew not what you did".
 
 _End story time_
-
-[[19. November Dawn|Next]]

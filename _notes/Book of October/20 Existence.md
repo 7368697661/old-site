@@ -1,11 +1,9 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:23:30
-e: 2023.03.31 ⋄ 05:48:34
+title : 20. Existence
+feed: show
+date : 15-04-2021
 ---
-# 20. Existence
-[[00 The Book of October|Index]] [[19. November Dawn|Previous]]
+[[00 The Book of October]] [[19. November Dawn]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, LOGIC, ACTION, COMMUNITY, ORUS, GRANDIOSITY, HEART, JANUS, FAHIN, LUPA, ABSTRACTION, ANGER, INTUITION, ERAS, CHIOU, PARAMIA, VOUN, MYALO, PSYARO

@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:20:16
-e: 2023.03.31 ⋄ 05:48:27
+title : 14. The Lord's Prayer
+feed: show
+date : 15-04-2021
 ---
-# 14. The Lord's Prayer
-[[00 The Book of October|Index]] [[13. The Aspects|Previous]] [[15. Fear|Next]]
+
+[[0 The Book of October]] [[13 The Aspects]] [[15 Fear]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, GNODENTA, COMMUNITY, INTROSPECTION, THALIAN, ACTION, BORACLIES, THOS, GRANDIOSITY, BERO, ANIATIO, PARAMIA, ORAMIO
@@ -254,4 +253,3 @@ Essentially, there is a sort of universal truth and story, that many religions h
 
 **INTROSPECTION**: Yeah. My interpretation is that we believe we exist in a duality, or perhaps as a duality. We believe we are separate from the whole. Like you were saying with ego-death, there is no self. Self removes us from presence even, in my mind. Duality is a necessary evil me thinks. Plurality, but it's still illusory; the experience is the same teleologically.
 
-[[15. Fear|Next]]

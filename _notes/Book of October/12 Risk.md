@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:19:30
-e: 2023.03.31 ⋄ 05:48:21
+title : 12. Risk
+feed: show
+date : 15-04-2021
 ---
-# 12. Risk
-[[00 The Book of October|Index]] [[11. Reflections|Previous]] [[13. The Aspects|Next]]
+
+[[0 The Book of October]] [[11 Reflections]] [[13 The Aspects]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THALIAN, AUREL, LOGIC, COMMUNITY, THOS, INTROSPECTION, SERHOM, HUMOR, ANGER, HEART, SAGA, PARAMIA, ANIATIO, ORUS, ABSTRACTION, ACTION, GNODENTA, GRANDIOSITY
@@ -264,4 +263,4 @@ It took my breath away. Never, up until these last few days, had I suspected the
 
 **ASPIRATION**: Ding.
 
-[[13. The Aspects|Next]]
+

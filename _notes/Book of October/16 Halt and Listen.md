@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:22:06
-e: 2023.03.31 ⋄ 05:48:55
+title : 16. Halt and Listen
+feed: show
+date : 15-04-2021
 ---
-# 16. Halt and Listen
-[[00 The Book of October|Index]] [[15. Fear|Previous]] [[17. Shelving Ego|Next]]
+
+[[0 The Book of October]] [[15 Fear]] [[17 Shelving Ego]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, FERCAE, INTROSPECTION, PRYLIS, ABSTRACTION, LOGIC
@@ -51,5 +50,3 @@ You probably feel a bit quieter. All I want you to see, is that your definition 
 Once you become good at willfully moving what you identify yourself as. To either make it smaller, or larger. You'll be able to allow it to become anything. Incredibly complex systems can exist wholly as a part of you, and you can dance with them. And that, my friends, is when you'll be able to make incursions on silly things like stock market tickers. Yes, once you are overwhelmed with the well being of dancing with existence, you won't care about options either. But if you need money for something, you'll know that it's just already there for you.
 
 So, homework. Meditation is simple, it's easy, it's pointless, and that is exactly the point. Go, sit, meditate on this, listen to the sounds in the room. Do it for 15 minutes. Meditation is dancing, there is no point to dancing. Set a timer and go sit. Listen to the world, and listen to your silly self react to the world, and be OK with both. Don't try to "quiet your mind". That concept is cruel at this point. Just go sit, and dance with the sound and your reaction. Even if your mind is a monkey screaming from branch to branch. Let it be.
-
-[[17. Shelving Ego|Next]]

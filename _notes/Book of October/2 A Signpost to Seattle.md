@@ -2,10 +2,7 @@
 title : 2 A Signpost to Seattle
 feed: show
 date : 15-04-2021
-permalink: /2-A-Signpost-to-Seattle
 ---
-
-[[3 Rain on the Sand]]
 
 [[0 The Book of October]] [[1 A Clever Hell]] [[3 Rain on the Sand]]
 
@@ -272,4 +269,3 @@ _More messages._
 
 **ASPIRATION**: Of course not :)
 
-[[3. Rain on the Sand|Next]]

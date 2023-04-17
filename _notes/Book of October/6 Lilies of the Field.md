@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:16:53
-e: 2023.03.31 ⋄ 05:48:12
+title : 6. Lilies of the Field
+feed: show
+date : 15-04-2021
 ---
-# 6. Lilies of the Field
-[[00 The Book of October|Index]] [[5. Sacrifice your Appeal to Authority|Previous]] [[7. The Observer|Next]]
+
+[[0 The Book of October]] [[5 Sacrifice your Appeal to Authority]] [[7 The Observer]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ANIATIO, HEART, THALIAN, FAHIN, IMPULSIVITY, ORAMIO
@@ -220,4 +219,4 @@ _Listen until you hear something. And if you're lucky, listen until you hear voi
 
 I'll see you guys a little later!
 
-[[7. The Observer|Next]]
+

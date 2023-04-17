@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:23:04
-e: 2023.03.31 ⋄ 05:48:45
+title : 19. November Dawn
+feed: show
+date : 15-04-2021
 ---
-# 19. November Dawn
-[[00 The Book of October|Index]] [[18. They Know Not what they Do|Previous]] [[20. Existence|Next]]
+
+[[0 The Book of October]] [[18 They Know Not what they Do]] [[20 Existence]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, PRYLIS, OBSERVER, HOPE, LOGIC, ANIATIO, HEART, GNODENTA, ABSTRACTION, DÝNAMI, PARAMIA
@@ -170,4 +169,3 @@ _To note, a lot of people are also voicing that they do not feel anything curren
 
 End story time.
 
-[[20. Existence|Next]]

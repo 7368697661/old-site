@@ -219,5 +219,3 @@ calls to you like the wild geese, harsh and exciting -over and over announcing y
 in the family of things._[1](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
 
 **ASPIRATION**: Homework for tonight. Get outta here and go be your soft animal selves. Stop thinking, simply be. Listen to the gong for a reminder. And you'll be in a much better place to make progress on my story. _Because you can't solve it by thinking, just as you can't out think the stock market_.
-
-[[2. A Signpost to Seattle|Next]]

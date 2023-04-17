@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:19:52
-e: 2023.03.31 ⋄ 05:48:24
+title : 13. The Aspects
+feed: show
+date : 15-04-2021
 ---
-# 13. The Aspects
-[[00 The Book of October|Index]] [[12. Risk|Previous]] [[13. The Aspects|Next]]
+
+[[0 The Book of October]] [[12 Risk]] [[14 The Lords Prayer]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, ANGER, THALIAN, GRANDIOSITY, COMMUNITY, INTROSPECTION, ABSTRACTION, INTUITION, ACTION, ORAMIO, ORUS, PARAMIA
@@ -251,5 +250,3 @@ The stuff we are dealing with is at the center of personality and emotion. Just 
 **ASPIRATION**: It's because from the space of the end result, you won't have any desire to manipulate.
 
 `*` _An evolving list of standard names can be found by asking kneecaps on the server._
-
-[[13. The Aspects|Next]]

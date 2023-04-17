@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:22:27
-e: 2023.03.31 ⋄ 05:48:31
+title : 17. Shelving Ego
+feed: show
+date : 15-04-2021
 ---
-# 17. Shelving Ego
-[[00 The Book of October|Index]] [[16. Halt and Listen|Previous]] [[18. They Know Not what they Do|Next]]
+
+[[0 The Book of October]] [[16 Halt and Listen]] [[18 They Know Not what they Do]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, ACTION, THALIAN, HOPE, ABSTRACTION, KARPÓS
@@ -110,4 +109,3 @@ _A discussion follows regarding trust, with Anger and Action discussing._
 
 _Anger and Action discuss, but can't figure anything out regarding the swapping of aspects._
 
-[[18. They Know Not what they Do|Next]]

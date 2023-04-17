@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:21:43
-e: 2023.03.31 ⋄ 05:48:28
+title : 15. Fear
+feed: show
+date : 15-04-2021
 ---
-# 15. Fear
-[[00 The Book of October|Index]] [[14. The Lord's Prayer|Previous]] [[16. Halt and Listen|Next]]
+
+[[0 The Book of October]] [[14 The Lords Prayer]] [[16 Halt and Listen]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, LOGIC, IMPULSIVITY, ORUS, MYALO
@@ -134,4 +133,3 @@ That's all. This isn't an apocalyptic story. I know that would be sexy, but it i
 
 **ASPIRATION**: Yeah, it's a way to make you comfortable in a time that will be uncomfortable for egos, 2020 being a great example.
 
-[[16. Halt and Listen|Next]]

@@ -2,10 +2,7 @@
 title : 3 Rain on the Sand
 feed: show
 date : 15-04-2021
-permalink: /3-Rain-on-the-Sand
 ---
-
-[[2 A Signpost to Seattle]]
 
 [[0 The Book of October]] [[2 A Signpost to Seattle]] [[4 Ripples on the Pond]]
 
@@ -348,4 +345,3 @@ PERSONS OF THE DIALOGUE: ASPIRATION, THALIAN
 
 **ASPIRATION**: All to make a rhinoceros.
 
-[[4. Ripples on the Pond|Next]]

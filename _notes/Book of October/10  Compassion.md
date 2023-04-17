@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:18:03
-e: 2023.03.31 ⋄ 05:48:19
+title : 10. Compassion
+feed: show
+date : 15-04-2021
 ---
-# 10. Compassion
-[[00 The Book of October|Index]] [[9. Self Hate|Previous]] [[11. Reflections|Next]]
+
+[[0 The Book of October]] [[9 Self Hate]] [[11 Reflections]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, NOX, COMMUNITY, ABSTRACTION, INTROSPECTION, THALIAN, APEIRON, KYNZON, PRYLIS, HOPE
@@ -224,4 +223,3 @@ _Later._
 
 The sun being the son chases away darkness, always to rise again. Removing attachment is another was of saying "quit associating with your local ripple as yourself". Stop demanding that this is you.
 
-[[11. Reflections|Next]]

@@ -3,8 +3,8 @@ title : 4 Ripples on the Pond
 feed: show
 date : 15-04-2021
 ---
-# 4. Ripples on the Pond
-[[00 The Book of October|Index]] [[3. Rain on the Sand|Previous]] [[5. Sacrifice your Appeal to Authority|Next]]
+
+[[0 The Book of October]] [[3 Rain on the Sand]] [[5 Sacrifice your Appeal to Authority]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, COMMUNITY, THALIAN, MINERVA, GRALEIV, ABSTRACTION, DENIRA, FAHIN, ELIAS, PARAMIA, ANGER
@@ -377,4 +377,4 @@ _Resounding wholesomeness is shared._
 
 _And then, the channel descended into chaos for the remainder of the night_
 
-[[5. Sacrifice your Appeal to Authority|Next]]
+

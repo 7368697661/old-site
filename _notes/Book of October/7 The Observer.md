@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:17:25
-e: 2023.03.31 ⋄ 05:49:19
+title : 7. The Observer
+feed: show
+date : 15-04-2021
 ---
-# 7. The Observer
-[[00 The Book of October|Index]] [[6. Lilies of the Field|Previous]] [[8. Vulnerability|Next]]
+
+[[0 The Book of October]] [[6 Lilies of the Field]] [[8 Vulnerability]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, HEART, LOGIC, DECADENCE, FERCAE, ANGER, GRANDIOSITY, FAHIN
@@ -177,5 +176,3 @@ My god, _if I could teach that to every preschooler I would save the world._
 **FAHIN**: Moving objects with our mind is phase 6.
 
 **ASPIRATION**: Realizing that the object and the mind are the same thing is phase 6.
-
-[[8. Vulnerability|Next]]

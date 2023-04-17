@@ -1,11 +1,10 @@
 ---
-tags: boo
-abstract: 
-c: 2023.03.31 ⋄ 05:18:59
-e: 2023.03.31 ⋄ 05:48:21
+title : 11. Reflections
+feed: show
+date : 15-04-2021
 ---
-# 11. Reflections
-[[00 The Book of October|Index]] [[10. Compassion|Previous]] [[12. Risk|Next]]
+
+[[0 The Book of October]] [[10  Compassion]] [[12 Risk]]
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, GRANDIOSITY, INTROSPECTION, SAGA, ANIATIO, PRYLIS, ACTION, ARBALO, ERAS, ANGER, HOPE
@@ -282,4 +281,4 @@ Bill Hicks is a comedian. Well, was. Dude points the way, but he doesn't live it
 
 Step one. See the ripple. Step two... where we are. Accept the ripple. Stop thrashing, be compassionate toward yourself. Stop blaming the ripple for being itself. Step three? Take a step back.
 
-[[12. Risk|Next]]
+
