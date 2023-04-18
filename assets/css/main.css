@@ -251,11 +251,13 @@ html {
 
 
   .container-qoute {
-    border: 1px solid black;
+    border: 1px solid var(--color-border);
     border-radius: 8px;
     padding: 1em;
     background: var(--color-bg-main);
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px; */
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
 }
 
 article,
