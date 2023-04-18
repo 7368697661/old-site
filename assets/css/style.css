@@ -32,12 +32,12 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
     --color-bg-main: #262626;
-    --color-bg-sub: #18181C;
+    --color-bg-sub: #22223b;
     --color-bg-grad: linear-gradient(168.44deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
     --color-bg-inv: linear-gradient(4deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%)
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
-    --color-text-link: #22223b;
+    --color-text-link: #f08080;
     --color-border-dark: #E6E6E6;
     --color-border: #d5d2d2;
     --color-border-light: #353535;
@@ -48,12 +48,12 @@ html[data-theme="dark"] {
     html,
     html[data-theme="dark"] {
         --color-bg-main: #262626;
-        --color-bg-sub: #18181C;
+        --color-bg-sub: #22223b;
         --color-bg-grad: linear-gradient(168.44deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
         --color-bg-inv: linear-gradient(4deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
-        --color-text-link: #22223b;
+        --color-text-link: #f08080;
         --color-border-dark: #E6E6E6;
         --color-border: #d5d2d2;
         --color-border-light: #353535;
