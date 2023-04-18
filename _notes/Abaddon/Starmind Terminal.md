@@ -1,5 +1,5 @@
 ---
-title : Data-Shards
+title : Starmind Terminal
 feed: show
 date : 02-10-2025
 ---
