@@ -312,7 +312,7 @@ pre {
   font-family: monospace; }
 
 body {
-  color: var(--color-text-main);
+  color: var(--color-text-sub);
   font-size: var(--text-m);
   font-weight: 400;
   line-height: 1.4;
