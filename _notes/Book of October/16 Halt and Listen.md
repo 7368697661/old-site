@@ -1,7 +1,7 @@
 ---
 title : 16 Halt and Listen
 feed: show
-date : 10-32-2020
+date : 10-31-2020
 ---
 
 [[0 The Book of October]] [[15 Fear]] [[17 Shelving Ego]]

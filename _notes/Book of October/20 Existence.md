@@ -1,7 +1,7 @@
 ---
 title : 20 Existence
 feed: show
-date : 10-32-2020
+date : 10-31-2020
 ---
 [[00 The Book of October]] [[19. November Dawn]]
 

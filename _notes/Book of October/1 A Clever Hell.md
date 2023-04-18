@@ -1,7 +1,7 @@
 ---
 title : 1 A Clever Hell
 feed: show
-date : 10-32-2020
+date : 10-31-2020
 ---
 
 [[0 The Book of October]] [[2 A Signpost to Seattle]]

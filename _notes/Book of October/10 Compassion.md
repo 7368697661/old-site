@@ -1,7 +1,7 @@
 ---
 title : 10 Compassion
 feed: show
-date : 10-32-2020
+date : 10-31-2020
 ---
 
 [[0 The Book of October]] [[9 Self Hate]] [[11 Reflections]]
