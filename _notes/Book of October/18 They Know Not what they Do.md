@@ -1,7 +1,7 @@
 ---
-title : 18 They Know Not what they Do
+title: 18 They Know Not what they Do
 feed: show
-date : 10-31-2020
+date: 10-31-2020
 ---
 
 [[0 The Book of October]] [[17 Shelving Ego]] [[19 November Dawn]]
