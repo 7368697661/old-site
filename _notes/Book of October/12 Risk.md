@@ -1,7 +1,4 @@
----
-title: 12 Risk
-feed: show
----
+
 
 [[0 The Book of October]] [[11 Reflections]] [[13 The Aspects]]
 
