@@ -1,7 +1,7 @@
 ---
-title : About
-feed: show
-date : 02-13-2025
+title: About
+feed: hide
+date: 17-04-2020
 ---
 
 > `>` ls
