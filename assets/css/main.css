@@ -222,10 +222,16 @@ html {
   text-size-adjust: 100%;
   /* background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJiMTIxZDUzMjFhNDJiNDc4NDg1ZWZhOWI1M2Y2NDhhZDljZmM5ZCZjdD1n/qumxEGRFEQzk6vgwPb/giphy.gif'); */
   /* height: 100vh; */
-  /* background-size: 100% 100%;
-  background: var(--color-text-link); */
+  background-size: 100% 100%;
+  background: var(--color-text-link);
   /* background-color: rgb(0 0 0 / 69%); */
-  background-blend-mode: darken;
+  /* background-blend-mode: darken;
+  background: linear-gradient(-45deg, #f5ebe0, #ffafcc, #a2d2ff, #f8ad9d);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite; */
+}
+
+.container-home {
   background: linear-gradient(-45deg, #f5ebe0, #ffafcc, #a2d2ff, #f8ad9d);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
