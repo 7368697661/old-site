@@ -1,7 +1,7 @@
 ---
 title : 7 The Observer
 feed: show
-date : 15-04-2021
+date : 10-32-2020
 ---
 
 [[0 The Book of October]] [[6 Lilies of the Field]] [[8 Vulnerability]]

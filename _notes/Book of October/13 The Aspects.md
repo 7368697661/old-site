@@ -1,7 +1,7 @@
 ---
 title : 13 The Aspects
 feed: show
-date : 15-04-2021
+date : 10-32-2020
 ---
 
 [[0 The Book of October]] [[12 Risk]] [[14 The Lords Prayer]]

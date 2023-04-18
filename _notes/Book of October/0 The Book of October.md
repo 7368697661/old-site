@@ -1,9 +1,8 @@
 ---
 title: 0 The Book of October
 feed: show
-date: 15-04-2021
+date: 10-32-2020
 ---
-# The Book of October
 
 > “It's easy to want to paint something like this with words such as spiritual, or supernatural, but it's simply a way of thinking and being. Think of an ancient library, thousands of years old, abandoned and covered with detritus and dirt and sand, trees growing on it, so that it doesn't resemble itself at all. In fact it just looks like a hill. There is a collective memory of a time when this place was the source of an immense amount of knowledge, where you could learn vast amounts about the human condition, and more. But now, it's a hill, covered with trees. The sentiment is simply "that place is special", a holy hill, the context is gone. But it's not a holy hill, it's a library where you can learn, if you can figure out it's a library first.”
 - Final_October

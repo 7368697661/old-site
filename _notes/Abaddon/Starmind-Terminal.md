@@ -1,9 +1,8 @@
 ---
 title : Data-Shards
 feed: show
-date : 15-04-2021
+date : 02-10-2025
 ---
-# Starmind Terminal
 
 ```> read.reproc_00_unparsed```
 

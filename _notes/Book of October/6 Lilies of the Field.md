@@ -1,7 +1,7 @@
 ---
 title : 6 Lilies of the Field
 feed: show
-date : 15-04-2021
+date : 10-32-2020
 ---
 
 [[0 The Book of October]] [[5 Sacrifice your Appeal to Authority]] [[7 The Observer]]
