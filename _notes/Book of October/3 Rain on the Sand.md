@@ -1,7 +1,7 @@
 ---
 title: 3 Rain on the Sand
 feed: show
-date: 10-31-2020
+date: 31-10-2020
 ---
 
 [[0 The Book of October]] [[2 A Signpost to Seattle]] [[4 Ripples on the Pond]]

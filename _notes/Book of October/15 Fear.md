@@ -1,7 +1,7 @@
 ---
 title: 15 Fear
 feed: show
-date: 10-31-2020
+date: 31-10-2020
 ---
 
 [[0 The Book of October]] [[14 The Lords Prayer]] [[16 Halt and Listen]]

@@ -1,7 +1,7 @@
 ---
 title: 9 Self Hate
 feed: show
-date: 10-31-2020
+date: 31-10-2020
 ---
 
 [[0 The Book of October]] [[8 Vulnerability]] [[10 Compassion]]

@@ -1,4 +1,8 @@
-
+---
+title: 12 Risk
+feed: show
+date: 31-10-2020
+---
 
 [[0 The Book of October]] [[11 Reflections]] [[13 The Aspects]]
 

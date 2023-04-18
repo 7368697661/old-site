@@ -1,7 +1,7 @@
 ---
 title: 17 Shelving Ego
 feed: show
-date: 10-31-2020
+date: 31-10-2020
 ---
 
 [[0 The Book of October]] [[16 Halt and Listen]] [[18 They Know Not what they Do]]

@@ -1,7 +1,7 @@
 ---
 title: 19 November Dawn
 feed: show
-date: 10-31-2020
+date: 31-10-2020
 ---
 
 [[0 The Book of October]] [[18 They Know Not what they Do]] [[20 Existence]]
