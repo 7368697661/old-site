@@ -10,7 +10,7 @@ permalink: /about
 
 [__DECRYPTED FILE__]
 
-![ascii cloaked figure](/assets/extant "extant")
+![ascii cloaked figure](/assets/image/extant "extant")
 
 ![[extant.png]]
 
