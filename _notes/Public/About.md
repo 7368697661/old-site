@@ -2,6 +2,7 @@
 title: About
 feed: hide
 date: 17-04-2020
+permalink: /about
 ---
 
 > `>` ls
