@@ -31,7 +31,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #262626;
+    --color-bg-main: #080812;
     --color-bg-sub: #22223b;
     --color-bg-grad: linear-gradient(168.44deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
     --color-bg-inv: linear-gradient(4deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%)
@@ -47,7 +47,7 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #262626;
+        --color-bg-main: #080812;
         --color-bg-sub: #22223b;
         --color-bg-grad: linear-gradient(168.44deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
         --color-bg-inv: linear-gradient(4deg, rgb(13 13 13) 1.62%, rgb(15 15 28) 95.72%);
