@@ -259,7 +259,7 @@ html {
     transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-.container-qoute::after {
+.container-qoute-behind {
   border: 1px solid var(--color-border);
   border-radius: 8px;
   padding: 1em;
@@ -278,7 +278,7 @@ html {
   transform: scale(1.05);
 }
 
-.container-qoute:hover::after {
+.container-qoute-behind:hover {
   border: 1px solid var(--color-border);
   border-radius: 8px;
   padding: 1em;
@@ -332,7 +332,6 @@ a {
   text-decoration: none; }
   a strong {
     color: currentColor; }
-   }
 
 img {
   height: auto;
