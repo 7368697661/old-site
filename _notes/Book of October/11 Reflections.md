@@ -1,7 +1,7 @@
 ---
 title: 11 Reflections
 feed: show
-date: 31-10-2020
+date: 21-10-2020
 ---
 
 [[0 The Book of October]] [[10 Compassion]] [[12 Risk]]

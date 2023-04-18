@@ -1,7 +1,7 @@
 ---
 title: Starmind Terminal
 feed: show
-date: 02-10-2020
+date: 10-03-2023
 ---
 
 ```> read.reproc_00_unparsed```

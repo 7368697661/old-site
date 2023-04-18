@@ -1,7 +1,7 @@
 ---
 title: 14 The Lords Prayer
 feed: show
-date: 31-10-2020
+date: 24-10-2020
 ---
 
 [[0 The Book of October]] [[13 The Aspects]] [[15 Fear]]

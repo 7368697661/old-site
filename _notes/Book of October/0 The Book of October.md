@@ -1,7 +1,7 @@
 ---
 title: 0 The Book of October
 feed: show
-date: 31-10-2020
+date: 10-10-2020
 format: list
 ---
 
