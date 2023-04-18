@@ -223,8 +223,7 @@ html {
   /* background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJiMTIxZDUzMjFhNDJiNDc4NDg1ZWZhOWI1M2Y2NDhhZDljZmM5ZCZjdD1n/qumxEGRFEQzk6vgwPb/giphy.gif'); */
   /* height: 100vh; */
   background-size: 100% 100%;
-  /* background: var(--color-bg-grad); */
-  background: var(--color-bg-main);
+  background: var(--color-bg-grad);
   /* background-color: rgb(0 0 0 / 69%); */
   background-blend-mode: darken;
   }
