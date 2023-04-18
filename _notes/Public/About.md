@@ -10,9 +10,7 @@ permalink: /about
 
 [__DECRYPTED FILE__]
 
-![ascii cloaked figure](/assets/image/extant "extant")
-
-![[extant.png]]
+![extant](https://github.com/7368697661/7368697661.github.io/blob/main/assets/img/extant.png)
 
 FILE_NAME: `EXTANT`
 LOCATION: __UNKNOWN__
