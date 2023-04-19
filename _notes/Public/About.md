@@ -6,7 +6,10 @@ permalink: /about
 ---
 
 > `>` ls
-📁 [DATA ENCRYPTED] 📁[DATA ENCRYPTED] 📁[DATA ENCRYPTED] 📁 [DATA OPEN]
+📁 [DATA ENCRYPTED] 
+📁[DATA ENCRYPTED] 
+📁[DATA ENCRYPTED] 
+📁 [DATA OPEN]
 
 [__DECRYPTED FILE__]
 

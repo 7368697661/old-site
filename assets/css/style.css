@@ -99,6 +99,7 @@ html[data-theme="dark"] {
     line-height: var(--text-leading-narrow);
     padding-bottom: 0;
     font-family: 'Nightingale', sans-serif;
+    color: white;
 }
 
 h1 {
