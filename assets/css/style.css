@@ -95,7 +95,7 @@ html[data-theme="dark"] {
 
 .jumbo {
     font-size: var(--text-jumbo);
-    font-weight: var(--text-weight-normal);
+    font-weight: 500;
     line-height: var(--text-leading-narrow);
     padding-bottom: 0;
     font-family: 'Nightingale', sans-serif;
